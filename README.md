@@ -5,51 +5,74 @@
 <title>Tabla de Animales</title>
 
 <style>
+
 body{
-    font-family: Arial, sans-serif;
-    background: linear-gradient(135deg,#74ebd5,#ACB6E5);
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(120deg,#667eea,#764ba2);
     margin:0;
+    padding:40px;
+    color:white;
 }
 
 h1{
     text-align:center;
-    padding:20px;
+    margin-bottom:30px;
 }
 
 table{
-    width:80%;
+    width:85%;
     margin:auto;
     border-collapse:collapse;
     background:white;
-    box-shadow:0 10px 20px rgba(0,0,0,0.2);
+    color:#333;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 15px 30px rgba(0,0,0,0.3);
 }
 
 th{
-    background:#4CAF50;
+    background: linear-gradient(90deg,#ff7e5f,#feb47b);
     color:white;
     padding:15px;
+    font-size:18px;
+    text-transform:uppercase;
 }
 
 td{
-    padding:12px;
+    padding:15px;
     text-align:center;
 }
 
 tr:nth-child(even){
-    background:#f2f2f2;
+    background:#f4f6ff;
+}
+
+tr:hover{
+    background:#ffe0d6;
+    transform:scale(1.01);
+    transition:0.3s;
 }
 
 img{
     width:100px;
-    border-radius:10px;
+    height:100px;
+    object-fit:cover;
+    border-radius:12px;
+    border:3px solid #ff7e5f;
+    transition:0.3s;
 }
-</style>
 
+img:hover{
+    transform:scale(1.15);
+    border-color:#764ba2;
+}
+
+</style>
 </head>
 
 <body>
 
-<h1>🐾 Tabla de Animales</h1>
+<h1>🐾 Galería de Animales</h1>
 
 <table>
 
@@ -62,13 +85,13 @@ img{
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td>
 <td>Perro</td>
-<td>Animal doméstico conocido por su lealtad.</td>
+<td>Animal doméstico conocido por su gran lealtad al ser humano.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"></td>
 <td>Gato</td>
-<td>Felino doméstico ágil e independiente.</td>
+<td>Felino doméstico ágil, curioso e independiente.</td>
 </tr>
 
 <tr>
@@ -80,43 +103,43 @@ img{
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"></td>
 <td>Elefante</td>
-<td>El mamífero terrestre más grande.</td>
+<td>El mamífero terrestre más grande del planeta.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Emperor_penguin.jpg"></td>
 <td>Pingüino</td>
-<td>Ave que no vuela y nada muy bien.</td>
+<td>Ave que no vuela y es excelente nadadora.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"></td>
 <td>Tigre</td>
-<td>Felino salvaje con rayas negras.</td>
+<td>Felino salvaje famoso por sus rayas negras.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"></td>
 <td>Jirafa</td>
-<td>Animal con el cuello más largo del mundo.</td>
+<td>Animal africano conocido por su cuello largo.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Zebra_Botswana_edit02.jpg"></td>
 <td>Cebra</td>
-<td>Animal africano con rayas negras y blancas.</td>
+<td>Animal con rayas blancas y negras único en África.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"></td>
 <td>Panda</td>
-<td>Oso que se alimenta principalmente de bambú.</td>
+<td>Oso originario de China que se alimenta de bambú.</td>
 </tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"></td>
 <td>Koala</td>
-<td>Mamífero australiano que vive en árboles.</td>
+<td>Mamífero australiano que vive en árboles de eucalipto.</td>
 </tr>
 
 </table>
