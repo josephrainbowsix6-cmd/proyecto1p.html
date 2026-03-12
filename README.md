@@ -1,4 +1,68 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Proyecto.1html - Galería de Animales</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg,#4facfe,#00f2fe);
+    margin:0;
+    padding:40px;
+}
+
+table{
+    width:80%;
+    margin:auto;
+    border-collapse:collapse;
+    background:white;
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+th{
+    background:#333;
+    color:white;
+    font-size:20px;
+    padding:15px;
+}
+
+td{
+    padding:15px;
+    text-align:center;
+    border-bottom:1px solid #ddd;
+}
+
+tr:hover{
+    background:#f5f5f5;
+    transform:scale(1.01);
+    transition:0.2s;
+}
+
+img{
+    width:120px;
+    height:90px;
+    object-fit:cover;
+    border-radius:10px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+}
+
+</style>
+</head>
+
+<body>
+
+<table>
+
+<tr>
+<th>Imagen</th>
+<th>Animal</th>
+<th>Descripción</th>
+</tr>
 
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td>
