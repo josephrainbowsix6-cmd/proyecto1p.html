@@ -1,4 +1,18 @@
-tr>
+
+
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td>
+<td>Perro</td>
+<td>Animal doméstico conocido por su lealtad.</td>
+</tr>
+
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"></td>
+<td>Gato</td>
+<td>Felino doméstico ágil e independiente.</td>
+</tr>
+
+<tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"></td>
 <td>León</td>
 <td>Gran felino africano conocido como rey de la selva.</td>
