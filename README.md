@@ -2,20 +2,18 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Galería de Animales</title>
+<title>Tabla de Animales</title>
 
 <style>
 body{
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg,#74ebd5,#ACB6E5);
     margin:0;
-    padding:0;
 }
 
 h1{
     text-align:center;
     padding:20px;
-    color:#333;
 }
 
 table{
@@ -23,8 +21,6 @@ table{
     margin:auto;
     border-collapse:collapse;
     background:white;
-    border-radius:10px;
-    overflow:hidden;
     box-shadow:0 10px 20px rgba(0,0,0,0.2);
 }
 
@@ -32,7 +28,6 @@ th{
     background:#4CAF50;
     color:white;
     padding:15px;
-    font-size:18px;
 }
 
 td{
@@ -46,17 +41,12 @@ tr:nth-child(even){
 
 img{
     width:100px;
-    height:100px;
-    object-fit:cover;
     border-radius:10px;
-}
-
-tr:hover{
-    background:#e8f5e9;
 }
 </style>
 
 </head>
+
 <body>
 
 <h1>🐾 Tabla de Animales</h1>
@@ -70,63 +60,63 @@ tr:hover{
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?dog"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td>
 <td>Perro</td>
-<td>Animal doméstico conocido por su lealtad y compañía.</td>
+<td>Animal doméstico conocido por su lealtad.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?cat"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"></td>
 <td>Gato</td>
-<td>Felino doméstico ágil, curioso e independiente.</td>
+<td>Felino doméstico ágil e independiente.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?lion"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"></td>
 <td>León</td>
 <td>Gran felino africano conocido como el rey de la selva.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?elephant"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"></td>
 <td>Elefante</td>
-<td>El mamífero terrestre más grande del planeta.</td>
+<td>El mamífero terrestre más grande.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?penguin"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Emperor_penguin.jpg"></td>
 <td>Pingüino</td>
-<td>Ave que no vuela y es excelente nadadora.</td>
+<td>Ave que no vuela y nada muy bien.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?tiger"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"></td>
 <td>Tigre</td>
-<td>Felino salvaje famoso por sus rayas negras.</td>
+<td>Felino salvaje con rayas negras.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?giraffe"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"></td>
 <td>Jirafa</td>
-<td>Animal africano conocido por su cuello largo.</td>
+<td>Animal con el cuello más largo del mundo.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?zebra"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Zebra_Botswana_edit02.jpg"></td>
 <td>Cebra</td>
-<td>Animal con rayas blancas y negras único en África.</td>
+<td>Animal africano con rayas negras y blancas.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?panda"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"></td>
 <td>Panda</td>
-<td>Oso originario de China que se alimenta de bambú.</td>
+<td>Oso que se alimenta principalmente de bambú.</td>
 </tr>
 
 <tr>
-<td><img src="https://source.unsplash.com/100x100/?koala"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"></td>
 <td>Koala</td>
-<td>Mamífero australiano que vive en árboles de eucalipto.</td>
+<td>Mamífero australiano que vive en árboles.</td>
 </tr>
 
 </table>
