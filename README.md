@@ -9,54 +9,75 @@
 
 body{
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg,#3a7bd5,#00d2ff);
+    background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
     margin:0;
     padding:40px;
 }
 
+/* TITULO */
+
 h1{
     text-align:center;
-    color:white;
+    color:#ffffff;
+    font-size:40px;
     margin-bottom:30px;
+    letter-spacing:2px;
 }
+
+/* TABLA */
 
 table{
-    width:85%;
+    width:90%;
     margin:auto;
     border-collapse:collapse;
-    background:white;
-    border-radius:12px;
+    background:#ffffff;
+    border-radius:15px;
     overflow:hidden;
-    box-shadow:0 10px 25px rgba(0,0,0,0.3);
+    box-shadow:0 15px 35px rgba(0,0,0,0.4);
 }
 
+/* ENCABEZADO */
+
 th{
-    background:#ff6b6b;
+    background:linear-gradient(90deg,#ff512f,#dd2476);
     color:white;
-    padding:15px;
+    padding:18px;
     font-size:18px;
 }
 
+/* CELDAS */
+
 td{
-    padding:15px;
+    padding:18px;
     text-align:center;
+    font-size:16px;
 }
 
+/* FILAS */
+
 tr:nth-child(even){
-    background:#f5f7ff;
+    background:#f2f6ff;
 }
 
 tr:hover{
-    background:#ffecec;
+    background:#ffe6f0;
+    transform:scale(1.01);
     transition:0.3s;
 }
+
+/* IMAGENES */
 
 img{
     width:120px;
     height:120px;
     object-fit:cover;
-    border-radius:10px;
-    border:3px solid #ff6b6b;
+    border-radius:12px;
+    border:3px solid #dd2476;
+    transition:0.3s;
+}
+
+img:hover{
+    transform:scale(1.1);
 }
 
 </style>
