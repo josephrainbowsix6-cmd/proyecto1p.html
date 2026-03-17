@@ -1,1 +1,56 @@
-<table style="width:80%; margin:auto; border-collapse:collapse; font-family:Arial; background:#ffffff; box-shadow:0 8px 16px rgba(0,0,0,0.2); border-radius:10px; overflow:hidden;"> <tr style="background:#333; color:white;"> <th style="padding:12px;">Imagen</th> <th style="padding:12px;">Animal</th> <th style="padding:12px;">Descripción</th> </tr> <tr style="background:#f2f2f2;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"></td> <td style="font-weight:bold;">Perro</td> <td>Animal doméstico conocido por su lealtad.</td> </tr> <tr style="background:#e6f7ff;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"></td> <td style="font-weight:bold;">Gato</td> <td>Felino doméstico ágil e independiente.</td> </tr> <tr style="background:#fff0e6;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"></td> <td style="font-weight:bold;">León</td> <td>Gran felino africano conocido como rey de la selva.</td> </tr> <tr style="background:#e6ffe6;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"></td> <td style="font-weight:bold;">Elefante</td> <td>El mamífero terrestre más grande.</td> </tr> <tr style="background:#e6f0ff;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Emperor_penguin.jpg"></td> <td style="font-weight:bold;">Pingüino</td> <td>Ave que no vuela y nada muy bien.</td> </tr> <tr style="background:#ffe6f0;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"></td> <td style="font-weight:bold;">Tigre</td> <td>Felino salvaje con rayas negras.</td> </tr> <tr style="background:#fff9e6;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"></td> <td style="font-weight:bold;">Jirafa</td> <td>Animal africano de cuello largo.</td> </tr> <tr style="background:#e6ffff;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Zebra_Botswana_edit02.jpg"></td> <td style="font-weight:bold;">Cebra</td> <td>Animal con rayas negras y blancas.</td> </tr> <tr style="background:#f0ffe6;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"></td> <td style="font-weight:bold;">Panda</td> <td>Oso que come principalmente bambú.</td> </tr> <tr style="background:#f2e6ff;"> <td style="padding:10px;"><img style="width:100px; border-radius:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"></td> <td style="font-weight:bold;">Koala</td> <td>Mamífero australiano que vive en árboles.</td> </tr> </table>
+# 🌍 Proyecto 1 - Tabla de Animales
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![Status](https://img.shields.io/badge/STATUS-TERMINADO-brightgreen?style=for-the-badge)
+![Diseño](https://img.shields.io/badge/DISEÑO-PRO-blueviolet?style=for-the-badge)
+
+---
+
+## 🐾 Descripción
+
+Este proyecto muestra una **tabla de animales** con imágenes reales, nombres y descripciones.  
+Incluye un diseño moderno con colores, sombras y efectos visuales.
+
+---
+
+## 📸 Vista previa
+
+| Imagen | Animal | Descripción |
+|--------|--------|------------|
+| ![Perro](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg) | Perro | Animal doméstico conocido por su lealtad |
+| ![Gato](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg) | Gato | Felino ágil e independiente |
+| ![León](https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg) | León | Rey de la selva |
+| ![Elefante](https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg) | Elefante | El mamífero terrestre más grande |
+| ![Pingüino](https://upload.wikimedia.org/wikipedia/commons/0/0d/Emperor_penguin_manchot_empereur.jpg) | Pingüino | Ave que no vuela pero nada |
+| ![Tigre](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) | Tigre | Felino con rayas negras |
+| ![Jirafa](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg) | Jirafa | Cuello largo |
+| ![Cebra](https://upload.wikimedia.org/wikipedia/commons/6/63/Plains_Zebra_Equus_quagga.jpg) | Cebra | Rayas blancas y negras |
+| ![Panda](https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG) | Panda | Come bambú |
+| ![Koala](https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg) | Koala | Vive en árboles |
+
+---
+
+## 🚀 Cómo usar
+
+1. Descarga el proyecto  
+2. Abre el archivo `index.html`  
+3. Disfruta la tabla 😎  
+
+---
+
+## 🛠️ Tecnologías
+
+- HTML5  
+- CSS3  
+
+---
+
+## 👨‍💻 Autor
+
+Proyecto creado por **Joseph** 💯  
+
+---
+
+## ⭐ Nota
+
+Si te gustó el proyecto, dale ⭐ en GitHub 😉
