@@ -1,54 +1,72 @@
-# 🌍 Proyecto 1 - Tabla de Animales
+## 🐾 Tabla de Animales
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
-![Status](https://img.shields.io/badge/STATUS-TERMINADO-brightgreen?style=for-the-badge)
-![Diseño](https://img.shields.io/badge/DISEÑO-PRO-blueviolet?style=for-the-badge)
+<table>
+  <tr>
+    <th>Imagen</th>
+    <th>Animal</th>
+    <th>Descripción</th>
+  </tr>
 
----
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" width="150" height="120"></td>
+    <td>Perro</td>
+    <td>Animal doméstico leal, inteligente y gran compañero del ser humano.</td>
+  </tr>
 
-## 🐾 Descripción
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" width="150" height="120"></td>
+    <td>Gato</td>
+    <td>Felino independiente, ágil y excelente cazador.</td>
+  </tr>
 
-Este proyecto muestra una **tabla de animales** con imágenes reales, nombres y descripciones.  
-Incluye un diseño moderno con colores, sombras y efectos visuales.
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" width="150" height="120"></td>
+    <td>Tigre</td>
+    <td>Gran felino salvaje, fuerte, veloz y depredador solitario.</td>
+  </tr>
 
----
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg" width="150" height="120"></td>
+    <td>Vaca</td>
+    <td>Animal de granja que proporciona leche, carne y derivados.</td>
+  </tr>
 
-## 📸 Vista previa
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Red_fox.jpg" width="150" height="120"></td>
+    <td>Zorro</td>
+    <td>Mamífero astuto, rápido y adaptado a diversos hábitats.</td>
+  </tr>
 
-| Imagen | Animal | Descripción |
-|--------|--------|------------|
-| ![Perro](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg) | Perro | Animal doméstico conocido por su lealtad |
-| ![Gato](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg) | Gato | Felino ágil e independiente |
-| ![León](https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg) | León | Rey de la selva |
-| ![Elefante](https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg) | Elefante | El mamífero terrestre más grande |
-| ![Pingüino](https://upload.wikimedia.org/wikipedia/commons/0/0d/Emperor_penguin_manchot_empereur.jpg) | Pingüino | Ave que no vuela pero nada |
-| ![Tigre](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) | Tigre | Felino con rayas negras |
-| ![Jirafa](https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg) | Jirafa | Cuello largo |
-| ![Cebra](https://upload.wikimedia.org/wikipedia/commons/6/63/Plains_Zebra_Equus_quagga.jpg) | Cebra | Rayas blancas y negras |
-| ![Panda](https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG) | Panda | Come bambú |
-| ![Koala](https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg) | Koala | Vive en árboles |
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Elephant_Diversity.jpg" width="150" height="120"></td>
+    <td>Elefante</td>
+    <td>El mamífero terrestre más grande, inteligente y social.</td>
+  </tr>
 
----
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" width="150" height="120"></td>
+    <td>Gaviota</td>
+    <td>Ave marina adaptada a la costa y gran capacidad de vuelo.</td>
+  </tr>
 
-## 🚀 Cómo usar
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Toco_Toucan_RWD.jpg" width="150" height="120"></td>
+    <td>Tucán</td>
+    <td>Ave tropical con pico grande y colorido.</td>
+  </tr>
 
-1. Descarga el proyecto  
-2. Abre el archivo `index.html`  
-3. Disfruta la tabla 😎  
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Clown_fish_in_the_Andaman_Coral_Reef.jpg" width="150" height="120"></td>
+    <td>Pez Payaso</td>
+    <td>Pez marino pequeño que vive entre anémonas.</td>
+  </tr>
 
----
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Butterfly_on_flower.jpg" width="150" height="120"></td>
+    <td>Mariposa</td>
+    <td>Insecto colorido con alas, símbolo de transformación.</td>
+  </tr>
 
-## 🛠️ Tecnologías
-
-- HTML5  
-- CSS3  
-
----
-
-## 👨‍💻 Autor
-
-Proyecto creado por **Joseph** 💯  
-
----
+</table>
 
 
