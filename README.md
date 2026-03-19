@@ -51,6 +51,4 @@ Proyecto creado por **Joseph** 💯
 
 ---
 
-## ⭐ Nota
 
-Si te gustó el proyecto, dale ⭐ en GitHub 😉
